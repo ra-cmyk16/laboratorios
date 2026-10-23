@@ -1,0 +1,4 @@
+codigo,nombre,categoria,precio,cantidad,valor_inventario
+P001,Teclado,perifericos,85000.0,4,340000.0
+P002,Mouse,perifericos,45000.0,0,0.0
+P003,Monitor,componentes,700000.0,2,1400000.0
